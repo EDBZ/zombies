@@ -1,0 +1,19 @@
+body {
+background-image: url("parking.jpg");
+/*background-position: center;*/
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.rouge, .vert , .bleu{
+  position: absolute;
+}
+.compteurs{
+  background-color: white;
+  width: 200px;
+  height: auto;
+}
+img{
+  height: 100px;
+  width: auto;
+}
